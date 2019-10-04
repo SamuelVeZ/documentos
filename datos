@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Datos en general </title>
+</head>
+<body>
+<h1>Datos en General</h1>
+<h3>Datos personales </h3>
+  <p>Mi nombre es<strong>Samuel</strong></p>
+  <p>mis apellidos son: velazquez zamora</p>
+  <p>Mi edad es: 19</p>
+  <p>Me gusta escuchar musica, leer la biblia,tocar la guitarra y estudiar</p>
+<h3>Datos escolares</h3>
+<p>Estudio en la <front color=>UTM</strong> la carrera de ingenieria en computacion</p>
+<p>Voy en el salon 502-A</p>
+
+<h3>Herramientas tecnologicas que domino</h3>
+<p>Estudio en la <front color=>UTM</strong> la carrera de ingenieria en computacion</p>
+<p>Voy en el salon 502-A</p>
+
+<h3>Entretenimiento</h3>
+<p>Me gusta ir a misiones</p>
+<p>tocar la guitarra en el grupo de alabanza</p>
+<p>Me gusta lo que estudio </P>
+<p>me gusta jugar baketball y en general hacer deporte</p>
+</body>
+</html>
